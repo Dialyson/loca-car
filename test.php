@@ -1,7 +1,11 @@
 <?php
-$servername = "ebh2y8tqym512wqs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
-$username = "erf5xbtq1e5kpchj";
-$password = "wyhj82h4943sslm7";
+// $servername = "localhost";
+// $username = "root";
+// $password = "";
+// $dbname = "local";
+$servername = "	ebh2y8tqym512wqs.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+$username = "	erf5xbtq1e5kpchj";
+$password = "	wyhj82h4943sslm7";
 $dbname = "	y07ctlab5knr4rdr";
 
 try {
